@@ -133,3 +133,13 @@ body {
 #form {
     text-align:center;
 }
+#photo {
+    width:260px;
+    
+}
+#future {
+    position:relative;
+    left:265px;
+    top:-195px;
+    width:260px;
+}
