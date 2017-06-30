@@ -1,10 +1,10 @@
 #everything {
     margin-top:-10px;
     margin-left:-10px;
-    height:10000000px;
+    height:1000px;
     position:relative;
     top:-348px;
-    width:100000px;
+    width:1000px;
     background-color:#999999;
 }
 #sidebar {
@@ -49,7 +49,7 @@ body {
     color:gray;
     top:-732px;
     right: 10px;
-    width: 100000000000px;
+    width: 1000px;
 }
 #motto {
     font-size: 20px;
