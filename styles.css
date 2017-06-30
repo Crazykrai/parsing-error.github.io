@@ -1,0 +1,135 @@
+#everything {
+    margin-top:-10px;
+    margin-left:-10px;
+    height:10000000px;
+    position:relative;
+    top:-348px;
+    width:100000px;
+    background-color:#999999;
+}
+#sidebar {
+    background-color:gray;
+    width:100px;
+    height: 1000px;
+    position: relative;
+    top:350px;
+    right:8px;
+}
+#sidebar button {
+    border: none;
+    border-radius: .5px;
+    background-color: #D08484;
+    color:white;
+    width:80px;
+    height:20px;
+    position:relative;
+    left:15px;
+    top:90px;
+    font-size: 12px;
+    font-family: verdana
+}
+#sidebar button:hover {
+    color:white;
+    transition-duration: .4s;
+    background-color: #612E2E;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.24);
+}
+body {
+    background-attachment: scroll
+}
+#logo {
+    width:309px;
+    font-size:40px;
+    position:relative;
+    left: 110px;
+    top:-340px;
+}
+#logoline {
+    position: relative;
+    color:gray;
+    top:-732px;
+    right: 10px;
+    width: 100000000000px;
+}
+#motto {
+    font-size: 20px;
+    position: relative;
+    left:150px;
+    top:-370px;
+}
+#Braedon_Face {
+    width:100px;
+    position: relative;
+    border-radius: 50%;
+}
+#About_Us_Page {
+    font-size:25px;
+    position: relative;
+    left:110px;
+    top:-1455px;
+}
+#braedon_bio {
+    font-size:20px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+#ayush_face {
+    width:100px;
+    position: relative;
+    border-radius: 50%;
+}
+#Ayush {
+    width:100px;
+    position: relative;
+    left: 210px;
+    top: -228px
+}
+#ayush_bio {
+    font-size:20px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+#Home {
+    font-size:25px;
+    width:539px;
+    position: relative;
+    left:110px;
+    top:-730px;
+}
+#Backstory {
+    font-size:25px;
+    position: relative;
+    top:-2104px;
+    left:110px;
+    width:873px;
+}
+#Request {
+    font-size:25px;
+    width:873px;
+    position: relative;
+    left:110px;
+    top:-2331px;
+}
+#Sankalp {
+    position: relative;
+    left: 420px;
+    top: -455px;
+    width: 100px;
+    height: 100px;
+}
+#sankalp_bio {
+    font-size:20px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+#sankalp_face {
+    width:100px;
+    position: relative;
+    border-radius: 50%;
+}
+#form {
+    text-align:center;
+}
